@@ -34,8 +34,9 @@
 - C#
 
 ## 👧 a little about myself:
-- I'm 21 years old., and I live in Islamabad, PK.
-- I am a Student of BS Software Engineering .
+- I'm 23 years old., and I live in Islamabad, PK.
+- I have Done My Bs In Software Engineering From Riphah International University with the CGPA of 3.49.
+- I am a Student of Ms Data Science.
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
